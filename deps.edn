@@ -1,2 +1,2 @@
 {:paths ["src"]
- :deps {quip/quip {:mvn/version "2.0.2"}}}
+ :deps {quip/quip {:mvn/version "2.0.4"}}}
